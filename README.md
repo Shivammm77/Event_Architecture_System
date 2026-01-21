@@ -1,4 +1,4 @@
-Event-Driven Architecture System (FastAPI & Redis)
+-------Event-Driven Architecture System (FastAPI & Redis)-------
 Overview of this project : 
 
 This project is a backend-only Event-Driven Architecture system built using FastAPI and Redis, designed to simulate a scalable food delivery platform. It enables asynchronous communication between services using events for better performance and loose coupling.
